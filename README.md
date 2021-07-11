@@ -6,3 +6,5 @@ We installed Anaconda as our analysis will be conducted using Python and Jupyter
 We started by creating a development or virtual environment to be consistent with the other team members.  
 We created a clone of the GitHub repository.  
 We converted the Excel file to a Pandas DataFrame.  
+'-----
+In 4.11 we established spending ranges per student, categorized the spending bins, grouped the data by the spending ranges and created a new DataFrame for the scores by school spending.  Our original breakdown of the spending bins had to be adjusted as the schools were not fairly grouped.  I was surprised by the results of the analysis:  the schools with the smallest per student spending had the highest Average and Percent Passing Math and Reading Scores, and the highest overall percentage passing.  
