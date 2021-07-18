@@ -27,3 +27,10 @@ In Lesson 12, we grouped the averages and percentages by school size as Maria wa
 '-----
 For our final analysis, Lesson 13, we grouped the average passing scores and percentages in math and reading, and the overall percentage passing scores by school type.  Once again, insightful information.  It is beneficial to be a student at a charter school as the scores and percentages are higher.  
 From this analysis, one can conclude that the smaller the student population size, the more likely each student is to succeed.  
+'-----
+'-----
+## Module 4 Challenge
+### Overview
+The school board notified our department that there is evidence of academic dishonesty with the math and reading grades for the ninth graders at Thomas High School.  In order to meet state testing standards, the school board has asked our department for assistance in addressing this academic dishonesty.  During an internal staff meeting, we decided to replace all the Thomas High School ("THS") ninth grade math and reading scores with NaNs or "not a number", which should address any disparity created by the academic dishonesty.  We decided that replacing this data would be our best option.  THS data for grades 10th, 11th, and 12th appeared to be academically sound.  Additionally, THS budget, size, and type were critical to our overall analysis.  We repeated the school district analysis with the excluded THS ninth grade math and reading scores eliminated from the calculations.  The following sections address the results of this modified analysis.  
+### Results
+
