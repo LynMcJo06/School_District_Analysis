@@ -27,19 +27,24 @@ In Lesson 12, we grouped the averages and percentages by school size as Maria wa
 '-----
 For our final analysis, Lesson 13, we grouped the average passing scores and percentages in math and reading, and the overall percentage passing scores by school type.  Once again, insightful information.  It is beneficial to be a student at a charter school as the scores and percentages are higher.  
 From this analysis, one can conclude that the smaller the student population size, the more likely each student is to succeed.  
-'-----
-'-----
+
 ## Module 4 Challenge
 ### Overview
 The school board notified our department that there is evidence of academic dishonesty with the math and reading grades for the ninth graders at Thomas High School.  In order to meet state testing standards, the school board has asked our department for assistance in addressing this academic dishonesty.  During an internal staff meeting, we decided to replace all the Thomas High School ("THS") ninth grade math and reading scores with NaNs or "not a number", which should address any disparity created by the academic dishonesty.  We decided that replacing this data would be our best option.  THS data for grades 10th, 11th, and 12th appeared to be academically sound.  Additionally, THS budget, size, and type were critical to our overall analysis.  We repeated the school district analysis with the excluded THS ninth grade math and reading scores eliminated from the calculations.  The following sections address the results of this modified analysis.  
 ### Results
 After reviewing the results of the analysis conducted after eliminating the THS ninth-grade, grade data, the following observations were made:  
   - In the District Summary, the Average Math Score, Average Read Score, Percent Passing Math, Percent Passing Reading, and the Percent Overall Passing, were 78.9, 81.9, 74.8%, 85.7%, and 64.9%, respectively.  These totals equated to a slight decrease from the original District Summary figures as follows.  
-  - The change in the Average Math Score was approximately 0.13% lower
-  - The change in the Average Reading Score did not change
-  - The change in the Percent Passing Math was approximately 0.27% lower
-  - The change in the Percent Passing Reading was approximatly 0.33% lower
-  - The change in the Percent Overall Passing was approximately 0.46% lower
+     - The change in the Average Math Score was approximately 0.13% lower
+     - The change in the Average Reading Score did not change
+     - The change in the Percent Passing Math was approximately 0.27% lower
+     - The change in the Percent Passing Reading was approximatly 0.33% lower
+     - The change in the Percent Overall Passing was approximately 0.46% lower
+  - The school summary was only slightly different after the THS ninth grader scores were eliminated from the analysis.  
+  -   - The change in the Average Math Score was approximately 0.05% lower
+  -   - The change in the Average Reading Score was approximately 0.05% higher
+  -   - The change in the Percent Passing Math was approximately 0.02% lower
+  -   - The change in the Percent Passing Reading was approximately 0.30% lower
+  -   - The change in the Percent Overall Passing was approximately 0.33% lower
  
 
 I was expecting a greater change in the data as a result of eliminating the THS ninth-grade, grade data.  
