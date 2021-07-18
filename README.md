@@ -33,4 +33,13 @@ From this analysis, one can conclude that the smaller the student population siz
 ### Overview
 The school board notified our department that there is evidence of academic dishonesty with the math and reading grades for the ninth graders at Thomas High School.  In order to meet state testing standards, the school board has asked our department for assistance in addressing this academic dishonesty.  During an internal staff meeting, we decided to replace all the Thomas High School ("THS") ninth grade math and reading scores with NaNs or "not a number", which should address any disparity created by the academic dishonesty.  We decided that replacing this data would be our best option.  THS data for grades 10th, 11th, and 12th appeared to be academically sound.  Additionally, THS budget, size, and type were critical to our overall analysis.  We repeated the school district analysis with the excluded THS ninth grade math and reading scores eliminated from the calculations.  The following sections address the results of this modified analysis.  
 ### Results
+After reviewing the results of the analysis conducted after eliminating the THS ninth-grade, grade data, the following observations were made:  
+  - In the District Summary, the Average Math Score, Average Read Score, Percent Passing Math, Percent Passing Reading, and the Percent Overall Passing, were 78.9, 81.9, 74.8%, 85.7%, and 64.9%, respectively.  These totals equated to a slight decrease from the original District Summary figures as follows.  
+  - The change in the Average Math Score was approximately 0.13% lower
+  - The change in the Average Reading Score did not change
+  - The change in the Percent Passing Math was approximately 0.27% lower
+  - The change in the Percent Passing Reading was approximatly 0.33% lower
+  - The change in the Percent Overall Passing was approximately 0.46% lower
+ 
 
+I was expecting a greater change in the data as a result of eliminating the THS ninth-grade, grade data.  
