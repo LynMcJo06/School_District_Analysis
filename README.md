@@ -45,6 +45,9 @@ After reviewing the results of the analysis conducted after eliminating the THS 
   -   - The change in the Percent Passing Math was approximately 0.02% lower
   -   - The change in the Percent Passing Reading was approximately 0.30% lower
   -   - The change in the Percent Overall Passing was approximately 0.33% lower
+  - Replacing the ninth graders' math and reading scores did not affect THS's performance relative to the other schools.  THS was still the second highest ranking school behind Cabrera High School in both analyses.  Consistent with the previously-mentioned results for the District and the school summaries, the changes were less than 0.5%.  
+Additional comparison was conducted as follows:  
+  - 
  
 
 I was expecting a greater change in the data as a result of eliminating the THS ninth-grade, grade data.  
