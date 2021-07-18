@@ -47,7 +47,10 @@ After reviewing the results of the analysis conducted after eliminating the THS 
   -   - The change in the Percent Overall Passing was approximately 0.33% lower
   - Replacing the ninth graders' math and reading scores did not affect THS's performance relative to the other schools.  THS was still the second highest ranking school behind Cabrera High School in both analyses.  Consistent with the previously-mentioned results for the District and the school summaries, the changes were less than 0.5%.  
 Additional comparison was conducted as follows:  
-  - 
+  - The math and reading scores for THS tenth, eleventh, and twelfth graders experienced slight decreases after the ninth grade scores were eliminated.
+  - The scores by school spending did not change the outcome from the initial analysis.  
+  - The scores by school size did not change significantly from the initial analysis.
+  - The scores by school type did not change significantly from the initial analysis.  
+### Summary
+In summary, after becoming aware that academic dishonesty occurred regarding the Thomas High School ninth grade math and reading scores, a new analysis was conducted by district staff.  The results of that analysis showed that elimination of the Thomas High School ninth grade scores had negligible affect on the overall results of the analysis.  If the extent of the academic dishonesty is discovered in other grade levels at THS, the impact might be greater to the overall analysis.  The conclusions derived in the initial schoold district remain unchanged.  Schools with lower overall student counts have a greater likelihood of having higher math and reading scores.  
  
-
-I was expecting a greater change in the data as a result of eliminating the THS ninth-grade, grade data.  
